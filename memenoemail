@@ -1,3 +1,12 @@
+!pip install pyautogui
+!pip install pyperclip
+
+import pyautogui as pa
+import pyperclip as pc
+import time
+
+pa.PAUSE = 1
+
 # 1 - Abrir o outlook e novo e-mail
 pa.press("win")
 pa.write("outlook")
