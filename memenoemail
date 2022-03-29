@@ -16,7 +16,7 @@ pa.click(x=26, y=104)
 
 # 2 - Endereçar à Vi com assunto "deu bom"
 time.sleep(2)
-pa.write(r"email@gmail.com")
+pa.write("email@gmail.com")
 pa.press("tab")
 pa.press("tab")
 pa.press("tab")
@@ -38,7 +38,7 @@ pa.press("win")
 pa.write("chrome")
 pa.press("enter")
 time.sleep(2)
-pa.write(r"https://i.pinimg.com/564x/b0/2e/e3/b02ee3623cf650913206a3b05fc1b3d7.jpg")
+pa.write("https://i.pinimg.com/564x/b0/2e/e3/b02ee3623cf650913206a3b05fc1b3d7.jpg")
 pa.press("enter")
 
 # 5 - Tirar um print
