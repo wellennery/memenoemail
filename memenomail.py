@@ -1,7 +1,7 @@
 #Instalação das bibliotecas
 #!pip install pyautogui
 #!pip install pyperclip
-# novo comentario
+# novo comentario 2
 import pyautogui as pa
 import pyperclip as pc
 import time
