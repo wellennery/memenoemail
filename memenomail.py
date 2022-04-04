@@ -1,5 +1,6 @@
-!pip install pyautogui
-!pip install pyperclip
+#Instalação das bibliotecas
+#!pip install pyautogui
+#!pip install pyperclip
 
 import pyautogui as pa
 import pyperclip as pc
