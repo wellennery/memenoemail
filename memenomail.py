@@ -1,6 +1,9 @@
-#ccomentario da dev
-!pip install pyautogui
-!pip install pyperclip
+
+#comentario da dev
+#Instalação das bibliotecas
+#!pip install pyautogui
+#!pip install pyperclip
+# novo comentario 3
 
 import pyautogui as pa
 import pyperclip as pc
